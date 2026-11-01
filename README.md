@@ -37,7 +37,7 @@ To use a bigger model for better SQL, change ``MODEL`` at the top of ``app.py``,
 
 For this example, I will use the Iris dataset from Kaggle.
 
-
+![Tux, the Linux mascot](/image1.png)
 
 
 ## Notes 
