@@ -33,6 +33,13 @@ The app opens at http://localhost:8501. Upload a CSV and ask questions.
 
 To use a bigger model for better SQL, change ``MODEL`` at the top of ``app.py``, e.g. ``qwen2.5-coder:14b``
 
+## Example
+
+For this example, I will use the Iris dataset from Kaggle.
+
+
+
+
 ## Notes 
 * Chat history is stored in ``chat.json``. The CSV itself is not stored, so re-upload it to ask new questions.
 * Small models can write incorrect SQL. The generated query is always shown so you can make sure.
